@@ -1,4 +1,5 @@
 # Eye-Exercise
+<img src="eye.png" width='300'/>
 
 ## Description of Project:
 This project creates two eyes that follow your mouse around the screen.
